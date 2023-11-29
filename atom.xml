@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://srlove-git.github.io</id>
+    <title>拾染爱恋</title>
+    <updated>2023-11-29T03:16:07.009Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://srlove-git.github.io"/>
+    <link rel="self" href="https://srlove-git.github.io/atom.xml"/>
+    <subtitle>一个人无法自成孤岛，要么至少，一个人无法自成最理想的孤岛</subtitle>
+    <logo>https://srlove-git.github.io/images/avatar.png</logo>
+    <icon>https://srlove-git.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 拾染爱恋</rights>
+    <entry>
+        <title type="html"><![CDATA[C#学习记录]]></title>
+        <id>https://srlove-git.github.io/C/</id>
+        <link href="https://srlove-git.github.io/C/">
+        </link>
+        <updated>2023-11-29T02:52:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>因为最近在学习Unity游戏开发，需要学习C#语言，于是就在b站找到了up主:丑萌气质狗(uid:90189489)的C#基础入门学习视频BV1hk4y1772C，此课程仅仅只是C#语言的学习与入门以及个人学习记录，如有错误请指出</p>
+<h2 id="第一课c入门简介">第一课：C#入门简介</h2>
+<p>C# 读作C sharp 是一种高级面向对象的编程语言<br>
+高级的编程语言还有Java Python 他们都有相应的GC 已经动态控制内存<br>
+低价的编程语言有C C++ 汇编这类语言都是比较底层直接对内存进行调控，一般都有寄存器<br>
+最本质的区别就是抽象层次不同</p>
+<h2 id="c和cc区别">c#和c/c++区别</h2>
+<p>c/c++的编译器是直接将代码转换成机器指令<br>
+c#编译器是先转换为IL中间语言再由.Net CL动态调控为机器指令<br>
+这样可以提升开发效率，但是极致性能不如c这类语言</p>
+<h2 id="c可以做什么">C#可以做什么</h2>
+<p>桌面应用程序 Web应用 云服务 手机应用 Unity loT AI</p>
+<h2 id="开发工具">开发工具</h2>
+<p>vs2022</p>
+<h2 id="课程目的">课程目的</h2>
+<p>此课程为不完全入门课程，不涉及C#高级用法<br>
+主要内容有，不完全基础概念，C#语言结构规范，介绍如何获取我们的C#学习资料，面向搜索引擎学习C#，文件批量操作</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的计划]]></title>
+        <id>https://srlove-git.github.io/Plan1/</id>
+        <link href="https://srlove-git.github.io/Plan1/">
+        </link>
+        <updated>2023-09-26T15:21:19.000Z</updated>
+        <content type="html"><![CDATA[<p>短期目标至长远规划<br>
+在生活这个充满变数的舞台上，计划往往不如变化快。因此，我们需要学会适应变化，灵活调整，避免对未来的规划过于僵化。<br>
+在目前的高中阶段，我已开始了一项颇具挑战性的任务：力求在高二上学期完成高中所有课程的学习。这不仅是对智力的考验，更是对自我控制和坚韧不拔精神的严峻挑战。我深知这将需要艰辛的努力，无数个夜晚的埋头钻研，以及直面困难时的坚定信念。凭借我个人对于学习速度的感知，我认为我是老师的三到四倍速，这使我可以在一定调控下把握自己的学习进度。在高一至高二的暑假期间，我基本上已经预习了高中的数学和物理课程，虽未进行试题练习，但基础题目已经能够处理得游刃有余。<br>
+我所指的自学仅仅是讲公式推理假设证明，然后做一数教辅的题，然而，由于时间限制（30天内每天仅2小时的学习时间），我并未进行大量试题练习，这也导致了我的学习成绩仅维持在一个基础水平。一旦我有更多时间，我将会专注于试题训练，相信这会大大提高我的学习效果。<br>
+目前，我在学习过程中遇到的最大困难是难以保持长时间连续高效率的学习。为了解决这个问题，我开始寻求网络课程的帮助，尽管我认为自己阅读学习速度更快，但实际情况是网络课程的1.5倍速播放让我能够更好地在生活与学习之间取得平衡。在学习完物理之后，高二的学习生活也正式拉开了帷幕。<br>
+从初一开始接触Java编程和Minecraft模组开发，到高二时已经建立了900多天的博客，我的编程技巧也在不断提升。然而，我意识到自己的提升并不显著。在初中时期，我只考虑做一些小游戏或构建一些并无实际用途的网站，而并未深入思考如何精进我的技术。然而现在，我开始有了更长远的规划。在迅速完成高中课程之后，我计划投入更多时间来学习一些与我编程工作相关的大学知识，例如线性代数和概率论等。我坚信这样的目标并非遥不可及。<br>
+我必须承认，我的心态尚未完全成熟，还有许多领域需要继续学习，例如情绪管理和时间规划等等。作为一个不太喜欢学习语文的内向理科生，我承认我的情感理解能力和人际交往能力确实有待提高。学习语文确实有其重要性，但我必须向我的语文老师表示歉意，因为我对语文真的不是很感兴趣。对于一个阅读量不大的我来说，与读了十二年书的他们相比，我的理解能力，共情能力根本没法比较，这确实是一个挑战，我真的很难完成语文老师对我的期望。<br>
+我意识到自己有些内向，而且想法常常离奇古怪，与大部分人的爱好有很大差异。这导致我在生活中可以畅谈的朋友数量有限。因此，我必须在学业之余努力提升这方面的能力。我想起了雷军曾经说过：“有问题不要怕，找个懂的人问问。”<br>
+我也承认，我在处理感情方面做得不够好。我失去了最好的朋友，也许是因为我们“道不同不相为谋”，或者是我自己的问题。在我看来，这可能是因为我读的书还不够多。<br>
+我享受做自己喜欢的事并全力以赴的感觉。我对成绩和成就的虚荣心并不强烈，我编程完全是因为热爱，提前学完高中课程也是为了有更多时间去编程。我并不是不重视成绩，我只是希望能够在保持一定成绩的同时，也能够追求自己的热爱。我相信，通过编写代码来创造一个自由的软件世界，带给我的快乐是其他事物无法比拟的。<br>
+谈到学习动力，我的动力很简单，就是那些我所热爱的人和事。我愿意为他们不断努力，不断提升自我。我一直坚信，人生就是一个不断学习、不断完善自己的过程，直到生命的终结。目前，没有什么物质欲望驱使着我前进，我期待通过不断的学习和努力，来提升自己的能力和视野。我渴望未来的挑战和机遇，因为我知道，它们将是我成长的催化剂，是我实现愿景的推动力。我相信，只要我保持坚定的信念并持续努力，我就能够实现我的愿景，成为我想成为的那个人。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时间管理与学习]]></title>
+        <id>https://srlove-git.github.io/0GE_FI9vZ/</id>
+        <link href="https://srlove-git.github.io/0GE_FI9vZ/">
+        </link>
+        <updated>2023-06-06T15:01:28.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>最近的生活，学习实在是太忙了，期中、月考紧接着又是期末，大大小小的考试围着我转，但是编程技术又不能放，成绩也不能丢下不管，为此做时间管理以此总结。</p>
+<h2 id="要有明确的计划">要有明确的计划</h2>
+<p>明确的计划指的是对要做的是做一个纲要以及时间分配，只有这样才能更合理的应对繁重的任务，计划一般不建议太详细，只做总结性和总览性即可</p>
+<h2 id="实践中学习">实践中学习</h2>
+<p>学习新的技术的时候，最快的方法就是边实践边学习，比如在我学习Python时，我是先找了一个比较简单的项目，然后慢慢的熟悉语法，各种函数等等则是在写项目时候练习，这样是比较快的方法。</p>
+<h2 id="定期的复习与重复">定期的复习与重复</h2>
+<p>“遗忘，是对识记过的材料不能再认与回忆，或者错误的再认与回忆，是一种记忆的丧失。遗忘分为暂时性遗忘和永久性遗忘，前者指在适宜条件下还可能恢复记忆的遗忘；后者指不经重新学习就不可能恢复记忆的遗忘。 遗忘是保持的对立面，也是巩固记忆的一个条件。“——出自MBA智库百科<br>
+将记忆赎回的最快方法就是复习，巩固知识的最直接方法就是重复。就比如记忆英语单词而言，我背单词的方法是”滚单词“，每次背上三四百个，然后每天不断的重复，开始的时候背了又忘，忘了又背，但重复的次数足够多，就熟悉了。</p>
+<h2 id="目标与投入">目标与投入</h2>
+<p>就学习做事而言，只有专心的投入与付出才能达到高效的收益与回报，提高专注力能大大加强学习的效率。</p>
+<h3 id="改变环境">改变环境</h3>
+<p>提升专注力可以从改变环境开始，比如讲娱乐设备远离学习环境，将手机关起来（大部分人败给了手f机），再就是尝试用一下软件计时，可以起到督促与可视化的作用</p>
+<h3 id="避免多任务同时进行">避免多任务同时进行</h3>
+<p>大脑不是多核CPU，多个任务同时进行已经分散了注意力和认知能力，看似两件事情同时做，其实大大降低了效率，尤其是任务难度变大，就会出现”资源不足“情况。</p>
+<h3 id="锻炼专注">锻炼专注</h3>
+<p>专注力其实是可以锻炼的，比如冥想，或者做一下可以集中注意力的事情，每次逐步增加时间。</p>
+<h2 id="谈我的学习">谈我的学习</h2>
+<p>我的学习成绩普普通通，参差不齐，但因为python深度学习，需要高等数学，概论等的基础，所以我争取在暑假两个月学完高中数学，然后再去学习python深度学习，比较在编程方面的经验还是太少了，尤其是学习上的觉悟不值一提，但学历不代表能力，应该用正确的眼光对待学习。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python学习记录]]></title>
+        <id>https://srlove-git.github.io/Python学习/</id>
+        <link href="https://srlove-git.github.io/Python学习/">
+        </link>
+        <updated>2023-06-03T14:51:34.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="个人背景">个人背景</h1>
+<p>本人是高中生一名，因学业问题，所以学习编程的时间不多，之前接触过一些Java开发，现在准备学习学习Python</p>
+<h1 id="学习目的">学习目的</h1>
+<p>1.提升自己的学习能力和技术<br>
+2.想了解并发展人工智能、深度学习方向<br>
+3.有些java基础，想尝试一下python</p>
+<h1 id="task01">Task01</h1>
+<h2 id="基础语法">基础语法</h2>
+<p>了解了Python语法的基础知识，看起来Python 像<strong>弱类型语言</strong>,因为对语句和写法没有很细致的要求和检查,像作用域使用缩进来进行区分,总体上减少了很多不必要的代码</p>
+<pre><code># 基本的输出控制台语句
+print(&quot;打印到控制台&quot;)
+</code></pre>
+<h2 id="python注释">Python注释</h2>
+<p>python注释分为2种多行(也叫区间注释)和单行注释</p>
+<pre><code># 这是单行注释 
+##  这也是单行注释
+ print(&quot;hello,python&quot;) # 你好,Python 
+ 
+# '''
+三个单引号,表多行注释
+'''
+&quot;&quot;&quot;
+三个双引号,也可表示多行注释
+&quot;&quot;&quot;
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[照片]]></title>
+        <id>https://srlove-git.github.io/zhaopian/</id>
+        <link href="https://srlove-git.github.io/zhaopian/">
+        </link>
+        <updated>2022-05-26T01:40:06.000Z</updated>
+        <content type="html"><![CDATA[<p>这是属于我们2019级13班的专属相册，初中三年真的很短，庆幸的是我们的生活被记录了下来，其实图片远不止这些，欢迎投稿！<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0002.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0002.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0003.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0005.JPG" alt="" loading="lazy"></p>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0006.JPG) -->
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0011.JPG) -->
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0012.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0013.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0014.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0015.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0017.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0018.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0020.JPG" alt="" loading="lazy"></p>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0021.JPG) -->
+<figure data-type="image" tabindex="1"><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0022.JPG" alt="" loading="lazy"></figure>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0023.JPG) -->
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0025.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(13).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0028.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0029.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0030.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0035.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0037.JPG" alt="" loading="lazy"></p>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0038.JPG) -->
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0039.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0040.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0041.JPG" alt="" loading="lazy"></p>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0042.JPG) -->
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0043.JPG) -->
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0044.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0050.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0052.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0053.JPG" alt="" loading="lazy"></p>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0054.JPG) -->
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0055.JPG) -->
+<figure data-type="image" tabindex="2"><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0056.JPG" alt="" loading="lazy"></figure>
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0058.JPG) -->
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0059.JPG) -->
+<!-- ![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0060.JPG)
+![](https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0061.JPG) -->
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0063.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/DSCF0064.JPG" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(1).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(2).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(3).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(4).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(5).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(6).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(7).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(8).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(9).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(10).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(11).jpg" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/picture/20220527%20(12).jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kali2020安装教程]]></title>
+        <id>https://srlove-git.github.io/Kali2020安装/</id>
+        <link href="https://srlove-git.github.io/Kali2020安装/">
+        </link>
+        <updated>2020-08-16T09:34:28.000Z</updated>
+        <content type="html"><![CDATA[<p>最近闲的没事，开始折腾起了kali</p>
+<h2 id="下载镜像">下载镜像</h2>
+<p>下载镜像百度就有，<a href ="https://www.kali.org/" target="_Blank">官网</a></p>
+<h2 id="安装">安装</h2>
+<p>1.打开我们的VMware(我认为你安装了)，然后新建虚拟机，点典型，然后找到我们的镜像，选择Linux，选择debian8x 64位，然后下一步，硬盘的话30G就可以，内存最低2G，然后运行<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1597570747114.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1597570754515.png" alt="" loading="lazy"></p>
+<p>2.然后来的这个页面<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1597570782189.png" alt="" loading="lazy"></p>
+<p>我们选择第一个----图形化安装，选择语言和地区，安装时记得把网断了，不然后面会有些麻烦<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1597570920268.png" alt="" loading="lazy"><br>
+下面的都是一些基础设置默认下一步。</p>
+<p>3.下面来到硬盘分区这里，我推荐新手选择第一个，整个磁盘，然后选择把/home,/var,/tmp单独分区。</p>
+<p>4.下面就到了安装基本系统和软件，这也是最慢的。。。<br>
+然后我们开始安装软件，软件的话别的都不要动，默认就行，要是想换桌面环境可以改改，一共这个几个<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1597571674492.png" alt="" loading="lazy"><br>
+然后就是等待。<br>
+5.安装GRUB，下面就是安装GRUB</p>
+<h2 id="完成">完成</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐几个IDEA插件]]></title>
+        <id>https://srlove-git.github.io/IDEA插件/</id>
+        <link href="https://srlove-git.github.io/IDEA插件/">
+        </link>
+        <updated>2020-08-10T09:58:11.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="心得">心得</h2>
+<p>之前敲代码，遇到各种各样的问题，或者敲代码太枯燥，太慢，而我用了插件之后感觉帮助了我很多。<br>
+不推荐添加很多插件这样会导致你的IDEA卡顿(不是电脑卡)；</p>
+<ol>
+<li>插件：
+<ul>
+<li>Material Theme UI</li>
+<li>Atom Material File Icons</li>
+<li>MinecraftDev</li>
+<li>Nyan Progress Bar</li>
+<li>codota</li>
+<li>Chinese ​(Simplified)​ Language Pack EAP</li>
+<li>ideavim</li>
+<li>translation</li>
+<li>activate-power-mode</li>
+</ul>
+</li>
+</ol>
+<h2 id="1material-theme-ui">1.Material Theme UI</h2>
+<p>找了很多主题，个人感觉这个是最好的主题插件，内置了很多好看的主题，新版本的好像没有更改文件和文件夹图标。</p>
+<h2 id="2atom-material-file-icons">2.Atom Material File Icons</h2>
+<p>上文说的没有更改图标，这个插件就可以帮到我们，乍开始用可能不太适应，个人感觉挺好。</p>
+<h2 id="3minecraftdev">3.MinecraftDev</h2>
+<p>这个插件你可以选择添加，我个人着迷于MC，所以这个插件可以帮助我们开发，而且它会自动帮你选择依赖。</p>
+<h2 id="4nyan-progress-bar">4.Nyan Progress Bar</h2>
+<p>这个插件推荐添加，它可以更改IDEA的加载方式为彩虹猫，挺好看的。</p>
+<h2 id="5codota">5.codota</h2>
+<p>这个插件会自动给你提示插件方法等，还会自动给你补全</p>
+<h2 id="6chinese-simplified-language-pack-eap">6.Chinese ​(Simplified)​ Language Pack EAP</h2>
+<p>这个插件就是官方推出的汉化插件，不建议添加，建议刚刚使用IDEA的添加。</p>
+<h2 id="7ideavim">7.ideavim</h2>
+<p>这个插件就是我们常说的Linux的vim编辑器，现在已经一直到IDEA推荐添加。</p>
+<h2 id="8translation">8.translation</h2>
+<p>这个插件也很厉害，支持三大翻译，个人推荐使用谷歌翻译。</p>
+<h2 id="9activate-power-mode">9.activate-power-mode</h2>
+<p>这个插件就是添加了打字特效，如果电脑加载快一点推荐添加。</p>
+<h2 id="写在最后">写在最后</h2>
+<p>像一些美化插件，如果电脑加载慢就不要添加了，不然你敲代码会更烦。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(六)]]></title>
+        <id>https://srlove-git.github.io/Spigot开发(六)/</id>
+        <link href="https://srlove-git.github.io/Spigot开发(六)/">
+        </link>
+        <updated>2020-08-09T03:03:25.000Z</updated>
+        <content type="html"><![CDATA[<p>这次我们来学习制作一个简单的GUI<br>
+这是也是最后一期，感谢您的陪伴。</p>
+<h2 id="创建一个包">创建一个包</h2>
+<p>我们和上次一样，在org.mallor.sky右键新建一个包，我给他命名gui</p>
+<h2 id="创建类">创建类</h2>
+<p>我们开始创建一个类，在这里我给他命名位GUI。</p>
+<h2 id="开始">开始</h2>
+<p>我们创建类之后，在类的后面输入implements CommandExecutor，他会自动导入类，然后输入下面代码</p>
+<pre><code class="language-Java">    @Override
+    public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
+        return false;
+</code></pre>
+<p>然后呢我们开始创建一个GUI，我们在{}中输入</p>
+<pre><code class="language-JAVA">        Player player =(Player)commandSender;
+        Inventory GUI =Bukkit.createInventory(null,27, ChatColor.YELLOW+&quot;GUI&quot;);
+        player.openInventory(GUI);
+        return false;
+</code></pre>
+<p>Player player = (Player)commandSender的意思是新建一个player，然后用这个代替Player，而且它等于commandSender中的Player<br>
+Inventory GUI =Bukkit.createInventory(null,27, ChatColor.YELLOW+&quot;GUI&quot;);这个的意识是新建一个GUI，它等于Bukkit新建一个GUI，GUI的参数呢，等于括号内的，类型等于null，大小等于27个格(在mc中一般有两种[除了自己新建的]一个是27格，一个是54格)。<br>
+player.openInventory(GUI);这个就是玩家触发GUI时输入的指令。</p>
+<h2 id="注册">注册</h2>
+<p>GUI注册需要两步，和指令差不多，我们回到主类在onEnable方法中输入</p>
+<pre><code class="language-Java">getCommand(&quot;GUI&quot;).setExecutor(new GUI());
+</code></pre>
+<p>然后回到plugin.yml，<br>
+我们新建一个指令<br>
+输入</p>
+<pre><code class="language-yml">  GUI:
+    description: GUI
+</code></pre>
+<p>然后开始构建</p>
+<h2 id="测试">测试</h2>
+<figure data-type="image" tabindex="1"><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596943944558.png" alt="" loading="lazy"></figure>
+<h2 id="拓展">拓展</h2>
+<p>现在我们新建了GUI，可是他里面没有东西，而且这个东西玩家可以放入，不过放进去物品就没有了，相当于垃圾箱。所以我们需要放入东西，<br>
+我们在我们的GUI参数下输入代码</p>
+<pre><code class="language-JAVA">ItemStack item = new ItemStack(Material.BED);
+GUI.setItem(10,item);
+</code></pre>
+<p>这是我的完整代码</p>
+<pre><code class="language-Java">public class GUI implements CommandExecutor {
+    @Override
+    public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
+        Player player =(Player)commandSender;
+        Inventory GUI =Bukkit.createInventory(null,27, ChatColor.YELLOW+&quot;GUI&quot;);
+        ItemStack item = new ItemStack(Material.BED);
+        player.openInventory(GUI);
+        GUI.setItem(10,item);
+        return false;
+    }
+}
+</code></pre>
+<p>然后我们构建测试<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596961248078.png" alt="" loading="lazy"><br>
+他就生成了64个床，这个床我们是可以拿走的，而且你关闭后，在输入指令还可以拿走。<br>
+下面我们就需要监听器帮助。</p>
+<h2 id="创建类-2">创建类</h2>
+<p>我们首先创建一个类，就叫做InventoryClick(都可以)，然后我们给他导入类，在类的后面加上implements Listener，然后输入下面代码</p>
+<pre><code class="language-JAVA"> @EventHandler
+    public void InventoryClick(InventoryClickEvent event){
+
+}
+</code></pre>
+<p>在方法中输入</p>
+<pre><code class="language-Java">    @EventHandler
+    public void InventoryClick(InventoryClickEvent event){
+    if (event.getView().getTitle().equalsIgnoreCase(ChatColor.YELLOW+&quot;GUI&quot;));
+    event.setCancelled(true);
+    }
+</code></pre>
+<h2 id="注册-2">注册</h2>
+<p>这个和之前一样，在主类中输入下面代码</p>
+<pre><code class="language-Java">getServer().getPluginManager().registerEvents(new InventoryClick(),this);
+</code></pre>
+<p>剩下的一些用指令打开GUI啥的都很简单，大家可以单独问我，或者看看官方文档。<br>
+我在这里就不教学了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(五)]]></title>
+        <id>https://srlove-git.github.io/Spigot开发(五)/</id>
+        <link href="https://srlove-git.github.io/Spigot开发(五)/">
+        </link>
+        <updated>2020-08-08T05:48:34.000Z</updated>
+        <content type="html"><![CDATA[<p>上一期我们讲了config,这一期我们讲解权限组。<br>
+这个有点简单，认真看。<br>
+我们回到plugin.yml，找到我们的cmd指令，在description下面输入</p>
+<pre><code class="language-yml">permission：op
+</code></pre>
+<p>完整代码</p>
+<pre><code class="language-yml">name: SKY
+main: org.mallor.sky.A
+version: 1.0
+commands:
+  cmd:
+    description: 这是一个命令
+    permission: op
+</code></pre>
+<h2 id="测试">测试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596866752744.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596866757592.png" alt="" loading="lazy"><br>
+第一个我没有给自己op，第二个给了<br>
+如果你觉得本教程对您有帮助, 不要忘了分享给他人. 如果有错误请指出, 谢谢!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(四)]]></title>
+        <id>https://srlove-git.github.io/Spigot开发(四)/</id>
+        <link href="https://srlove-git.github.io/Spigot开发(四)/">
+        </link>
+        <updated>2020-08-08T05:16:33.000Z</updated>
+        <content type="html"><![CDATA[<p>上一期我们讲了指令，这一期我们讲config.yml(配置文件)</p>
+<h2 id="创建文件">创建文件</h2>
+<p>要想使用config.yml就需要创建文件，我们在项目根目录创建一个txt文本文件，把他重命名为config.yml<br>
+然后打开idea，找到这个文件双击，然后在里面输入</p>
+<pre><code class="language-yml">name: SKY
+author: Mallor 
+a: 1
+  b: 2
+    c: 3 
+</code></pre>
+<p>这里面的东西都可以改变，比如name可以改成mingzi,author可以改成zuozhe<br>
+a b c也可以改变。</p>
+<h2 id="导入">导入</h2>
+<p>我们已经创建了，就需要想plugin.yml一样导入，我们打开项目结构，找到构件，然后点击加号，就像plugin.yml一样导入。<br>
+然后回到主类，在onEnable方法里，输入</p>
+<pre><code class="language-Java">savaDefaultConfig();
+</code></pre>
+<h2 id="读与写">读与写</h2>
+<p>在开始之前我给大家几个方法</p>
+<pre><code class="language-Java">saveDefaultConfig(); //如果没有config.yml 则导出一个.
+ getConfig().getString(&quot;name&quot;); //在配置文件中读取某一项
+ getConfig().set(&quot;&quot;,&quot;&quot;); //将配置文件中某一项的值改写为另一个值
+saveConfig(); //保存配置文件
+reloadConfig(); //重载配置文件
+</code></pre>
+<p>现在你应该已经明白了一些基本用法，下面我来给大家举个例子</p>
+<pre><code class="language-Java">saveDefaultConfig();
+        getLogger().info(getConfig().getString(&quot;name&quot;));
+        getLogger().info(getConfig().getString(&quot;author&quot;));
+        getLogger().info(getConfig().getString(&quot;a.b.c&quot;));
+        getConfig().set(&quot;name&quot;,&quot;Mallor&quot;);
+        saveConfig();
+        reloadConfig();
+</code></pre>
+<p>直接放在onEnable方法里就可以</p>
+<h2 id="测试">测试</h2>
+<p>我们把插件编译成功后，打开服务器会发现自动生成了config.yml文件，然后我们打开里面是我们输入的，我们打开服务器他也会自动读取。<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596865441735.png" alt="" loading="lazy"><br>
+创建完config之后我们就得使用呗。<br>
+首先新建一个类，随意就好了，然后输入下面代码</p>
+<pre><code class="language-java">    Plugin plugin =org.mallor.sky.A.getPlugin(org.mallor.sky.A.class);//注意Plugin plugin=你的包.你的主类.getPlugin(你的包.你的主类.class);
+     @Override
+    public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
+        Player player =(Player) commandSender;
+        player.sendMessage(plugin.getConfig().getString(&quot;name&quot;));/*这个name是我
+        在config里面输入的，你也可以自定义。主义getString表示的是String，如果想后面跟bloolean ,你可以改成getBoolean，或者其他的 */
+        return false;
+    }
+</code></pre>
+<p>这是我的config</p>
+<pre><code class="language-yml">name: '插件名字:SKY'
+author: '作者：Mallor'
+a:
+  b:
+    c: '欢迎使用本插件'
+
+</code></pre>
+<h1 id="然后还是像指令那样把类写在pluginyml和主类当中千万不要忘记">然后还是像指令那样把类写在plugin.yml和主类当中千万不要忘记</h1>
+<h2 id="测试-2">测试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1603041110199.png" alt="" loading="lazy"><br>
+因为我的name是SKY。所以我输入play就会显示name的数值。如果你的出现乱码就需要改变一下你的编码，可以使用notead++等软件，具体可以百度<br>
+所以我们就需要改变一下你的文件的编码把文件的编码改成ANSI就可以。</p>
+<p>他也会自动读取，好了这一期就到这里下期再见。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(三)]]></title>
+        <id>https://srlove-git.github.io/Spigot开发(三)/</id>
+        <link href="https://srlove-git.github.io/Spigot开发(三)/">
+        </link>
+        <updated>2020-08-08T03:27:02.000Z</updated>
+        <content type="html"><![CDATA[<p>上一期我们讲解了监听器，这一期我们讲解指令<br>
+这个可能有点不太理解，所以请认真看。</p>
+<h2 id="oncommand">onCommand()</h2>
+<p>打开我们的idea，然后在主类里写一个onCommand方法下面时代码</p>
+<pre><code class="language-Java">@Override
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        return true;
+    }
+</code></pre>
+<p>这个应该很简单吧，我就不讲解了，不明白的私聊我，或者在下面评论。</p>
+<h2 id="注册">注册</h2>
+<p>我们知道监听器主类都需要注册，命令也同样需要，不过这个有点和他们不一样，这个需要在plugin.yml里面，</p>
+<pre><code class="language-yml">commands:
+   cmd:
+      description: 这是一个命令.
+</code></pre>
+<p>cmd时你想要的命令，你可以替换成你的，description是对命令的介绍，</p>
+<h2 id="开始写命令">开始写命令</h2>
+<p>回到 onCommand().<br>
+首先我们要从sender这获取到他使用的是什么命令.<br>
+Command类下的getName()可以直接获取到这条命令的名称.</p>
+<pre><code class="language-Java"> String cmd = null;
+        cmd = command.getName();
+        if (cmd.equalsIgnoreCase(&quot;cmd&quot;)) {
+            sender.sendMessage(&quot;Hello World&quot;);
+        }
+</code></pre>
+<p>在onCommand方法里写这个命令<br>
+这个意思时如果输入cmd，那么将会发送Hello World。<br>
+这个应该时你的全部代码</p>
+<pre><code class="language-Java"> @Override
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        String cmd = null;
+        cmd = command.getName();
+        if (cmd.equalsIgnoreCase(&quot;cmd&quot;)) {
+            sender.sendMessage(&quot;Hello World&quot;);
+        }
+        return true;
+</code></pre>
+<h2 id="尝试">尝试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596858185882.png" alt="" loading="lazy"><br>
+输入help+插件名字，就可以看到插件的命令。</p>
+<h2 id="拓展">拓展</h2>
+<p>1.我们把命令写在主类有点不方便，所以我们要新建一个类。<br>
+然后给这个类implements CommandExecutor，<br>
+在下面写入我们的代码</p>
+<pre><code class="language-Java">public class cmd implements CommandExecutor {
+        public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+            String cmd = null;
+            cmd = command.getName();
+            if (cmd.equalsIgnoreCase(&quot;cmd&quot;)) {
+                sender.sendMessage(&quot;Hello World&quot;);
+            }
+            return true;
+        }
+}
+</code></pre>
+<p>这是全部代码<br>
+然后回到主类注册，记得把主类之前的删除，然后<br>
+在onEnable方法中写入</p>
+<pre><code class="language-Java">Bukkit.getPluginCommand(&quot;cmd&quot;).setExecutor(new cmd());
+</code></pre>
+<h2 id="再次尝试">再次尝试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596858687394.png" alt="" loading="lazy"><br>
+2.我们的指令不一定需要cmd，所以还需要玩家。下面我来教大家怎么判断玩家<br>
+我们可以用if-----else<br>
+只需要加入</p>
+<pre><code class="language-Java">if (sender instanceof Player) {
+sender.sendMessage(&quot;Hello World&quot;); //所要执行的内容
+}else{
+sender.sendMessage(&quot;你必须时一个玩家&quot;);  //所要执行的内容
+}
+</code></pre>
+<h2 id="再次尝试-2">再次尝试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596859102463.png" alt="" loading="lazy"><br>
+好了这一期就到这里，感谢您认真看完，下期再见！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(二)]]></title>
+        <id>https://srlove-git.github.io/Spigot开发(二)/</id>
+        <link href="https://srlove-git.github.io/Spigot开发(二)/">
+        </link>
+        <updated>2020-08-06T10:34:29.000Z</updated>
+        <content type="html"><![CDATA[<p>上一期我们讲到了怎么创建一个插件并打包导出运行，这一期我们开始讲解监听器(Listener)的用法</p>
+<h2 id="首先创建一个类">首先创建一个类</h2>
+<p>我们呢先创建一个包，直接在我们上次创建的包右键，然后点击package，然后再原来的包的后面有一个点，然后给他命名。我的包名就叫做a，我的完整的就是org.mallor.sky.a，这次我们写一个关于玩家加入的类，我给他命名PlayerJoin。这个是我的完整<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596779327188.png" alt="" loading="lazy"></p>
+<h2 id="listener">Listener</h2>
+<p>然后我们在public class PlayerJoin后面写上implements Listener，别忘了导入类。<br>
+然后输入以下代码</p>
+<pre><code class="language-Java">@EventHandler
+public void PlayerJoin(PlayerJoinEvent Event){
+String player = Event.getPlayer().getName();
+Event.setJoinMessage(&quot;欢迎&quot;+player+&quot;加入了游戏&quot;);
+}
+</code></pre>
+<p>public void PlayerJoin这个就是声明类，PlayerJoinEvent Event，就是用Event代替PlayerJoinEvent，String就是字符串类型player，说明player等于监听器(Event)，得到玩家，得到玩家的名字，这样就用player代替后面的Event.getPlayer().getName();<br>
+Event.setJoinMessage(&quot;欢迎&quot;+player+&quot;加入了游戏&quot;);这个就是监听器发送加入信息:”欢迎玩家加入了游戏“，好了代码写完了。</p>
+<h2 id="编译">编译</h2>
+<p>然后我们开始编译，编译之前我们需要给插件注册，就相当于我们把主类注册在plugin.yml，里面一样。<br>
+我们只需要在主类的onEnable方法里，也就是在括号内写上</p>
+<pre><code class="language-Java"> getServer().getPluginManager().registerEvents(new PlayerJoin(),this);
+</code></pre>
+<p>这是我的完整代码</p>
+<pre><code class="language-Java">public class A extends JavaPlugin {
+    @Override
+    public void onEnable() {
+        getServer().getPluginManager().registerEvents(new PlayerJoin(),this);
+        System.out.println(&quot;插件SKY已经成功启动&quot;);
+    }
+    @Override
+    public void onDisable() {
+        System.out.println(&quot;插件SKY已经成功关闭&quot;);
+    }
+
+}
+</code></pre>
+<p>然后就可以编译了。</p>
+<h2 id="测试">测试</h2>
+<p><img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596786646751.png" alt="" loading="lazy">，我们可以看到他已经加载了，我们来给他一个颜色<br>
+我们在Event.setJoinMessage(&quot;欢迎&quot;+player+&quot;加入了游戏&quot;);中的&quot;欢迎&quot;前面输入ChatColor.color这个color输入你喜欢的颜色，比如红色就输入CharColor.RED<br>
+完整代码</p>
+<pre><code class="language-Java">Event.setJoinMessage(ChatColor.RED+&quot;欢迎&quot;+player+&quot;加入了游戏&quot;);
+
+</code></pre>
+<p>如果你想要获得更多监听器的你可以去这个网站https://bukkit.windit.net/javadoc/，不会的在下面留言，问我。<br>
+好了这期就到这里了，我们下一期讲指令</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始教你编写Spigot插件(一)]]></title>
+        <id>https://srlove-git.github.io/Spigit开发(一)/</id>
+        <link href="https://srlove-git.github.io/Spigit开发(一)/">
+        </link>
+        <updated>2020-08-06T03:17:44.000Z</updated>
+        <content type="html"><![CDATA[<p>从这篇文章开始我来教大家开发Spigot插件<br>
+我会把代码放在Github上，地址<a href="https://github.com/Mallor-WYB/Spigot_Plugin">传送门</a><br>
+这个是我在bilibili上的教程视频，可以去看看</p>
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=756437640&bvid=BV1xr4y1K7Sa&cid=290615844&page=1"></iframe>
+<h2 id="首先我们需要准备ide开发工具">首先我们需要准备IDE开发工具</h2>
+<p>我所知道比较好的有两个IDE一个是IntelliJ IDEA和Eclipse,而我呢则是选择IDEA(比较推荐)。</p>
+<h2 id="ide选择了然后下载开服核心和jdk">IDE选择了，然后下载开服核心和JDK</h2>
+<p>大家可以去www.getbukkit.org去下载，记得选择Spigot核心。<br>
+JDK可以去oracle这里下载，记得注册一个账号。</p>
+<h2 id="开始创建项目">开始创建项目</h2>
+<p>我推荐新手去下载一个汉化，IDEA2020.1已经出来了官方的汉化，可以去官网下载。<br>
+然后打开idea, 选择新建项目，然后选择Maven，然后next，下面选择保存位置，然后打开下面的折叠页，第一个是包名，就是xxx.xxx.xxx的这样的格式，也就是把域名倒过来，记得全部小写。我的就是org.mallor.sky<br>
+然后下面的是项目名称不用管他，下面的是版本不用管。</p>
+<h2 id="导入服务器核心">导入服务器核心</h2>
+<p>创建完项目应该是这样的<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596685146631.png" alt="" loading="lazy"><br>
+然后再你的项目根目录新建一个文件夹,叫做lib(标准的依赖存放位置)，接着把你的开服包放进去。<br>
+在里面开服，直接再系统自带的文件管理新建就可以<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596685425342.png" alt="" loading="lazy"><br>
+开服务器应该都会吧，不会的话可以看我的视频，或者加我QQ私聊我639388807<br>
+我们点击文件，点击项目结构，找到模块，<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596685511350.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596685562494.png" alt="" loading="lazy">然后点击右边的加，选择jar或者目录，直接选择lib目录下载开服核心就可以。</p>
+<h2 id="创建一个包">创建一个包</h2>
+<p>创建包应该很简单了，就是上文提到的xxx.xxx.xxx。<br>
+右键main中的java，然后点击新键<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596687251811.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596687302403.png" alt="" loading="lazy"><br>
+这个就是我们所需要的包名，你可以自定义，英文单词，记得小写，然后回车就可以<br>
+。</p>
+<h2 id="新建一个类">新建一个类</h2>
+<p>我们新建包之后开始创建主类，右键我们的包，然后点击新建Java类，输入我们类的名字不要有中文大小写都可以。<br>
+我直接叫他A了。创建完是这样的<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596688105645.png" alt="" loading="lazy"></p>
+<h2 id="开始">开始！</h2>
+<p>我们再我们的类(A)后面输入extends JavaPlugin，extends前面记得空格。<br>
+然后再{}里面输入</p>
+<pre><code class="language-Java">@Override
+public void onEnable() {
+}
+@Override
+public void onDisable() {
+ }
+</code></pre>
+<p>然后呢我们再public void onEnable{<br>
+}里插入    System.out.println(&quot;&quot;);再&quot;&quot;中间就是你想要说的话比如我的就是<br>
+System.out.println(&quot;插件SKY已经成功启动&quot;);<br>
+这个的意思是插件SKY已经成功启动，public void onEnable()这个的意思是启动时所要执行的命令，System.out.println这个只要是学过Java的应该都知道，打印某件事，所以这两个连起来就是当插件启动时，插件会说:”插件SKY已经成功启动“<br>
+一次类推我们在onDisable里面输入插件已经成功关闭也会在控制台输出。<br>
+你可以去试一试。<br>
+这时你的全部正确代码</p>
+<pre><code class="language-Java">public class A extends JavaPlugin {
+    @Override
+    public void onEnable() {
+        System.out.println(&quot;插件SKY已经成功启动&quot;);
+    }
+    @Override
+    public void onDisable() {
+        System.out.println(&quot;插件SKY已经成功关闭&quot;);
+    }
+
+} 
+</code></pre>
+<h2 id="把插件导出">把插件导出</h2>
+<p>既然我们已经制作了插件了，我们就需要把他导出来，我们点击文件项目结构<br>
+然后点击构件，点击+号，然后按照图片操作<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690208762.png" alt="" loading="lazy"><br>
+会弹出这个页面<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690230270.png" alt="" loading="lazy"><br>
+我们在mainclass那里添上你的包名加上你的主类，主类就是刚才新建的类。<br>
+就是像我这样<br>
+org.mallor.sky.A<br>
+然后点击确定，然后找到输出目录，因为我们之前已经开过服务器了，他会自动生成一个叫做Plugins的文件夹，这个就是存放插件的<br>
+我们把这个输出目录放进这里，这样我们构建完插件就可以直接运行服务器。<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690653554.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690658928.png" alt="" loading="lazy"><br>
+插件已经好了，剩下的我们还要给插件做一个身份证。<br>
+如果你用解压软件打开插件你会发现里面有一个plugin.yml的文件我们记事本把他打开，里面一般有3个基本变量，一个是name,main，version<br>
+name就是插件的名字，main，就是他的主类就是我们当时的org.mallor.sky.A<br>
+versoin就是插件的版本，我们直接1.0就可以了。<br>
+我们在我们项目的根目录下新建文件，<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690868284.png" alt="" loading="lazy"><br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596690892074.png" alt="" loading="lazy"><br>
+输入plugin.yml就回车<br>
+然后在里面输入三个变量</p>
+<pre><code class="language-yml">name: 
+main:
+version:
+</code></pre>
+<p>在:后面记得空格<br>
+这个是我的代码</p>
+<pre><code class="language-yml">name: SKY
+main: org.mallor.sky.A
+version: 1.0
+</code></pre>
+<p>身份证已经做好了，剩下的就让他带上，不然和没做一样<br>
+我们点击文件，点击项目结构，然后打开构建。<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596691145191.png" alt="" loading="lazy"><br>
+然后找到你的plugin.yml文件直接选择回车。<br>
+然后再点击包含着项目结构中，把他选择了<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596691224218.png" alt="" loading="lazy"><br>
+你的是没有点亮的，我们把他给打开。<br>
+点击确定退出。</p>
+<h2 id="开始构建">开始构建</h2>
+<p>插件做好了，我们就开始构建了。我们可以再菜单栏里看到有一个构建的按钮我们直接点击他，然后点击第一个<br>
+<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596691555893.png" alt="" loading="lazy"><br>
+我们就慢慢的等待他，构建完，然后我们再打开服务器，耐心的等待他开服。<br>
+我们会看到他会说插件已经成功运行<img src="https://blog-1301576994.cos.ap-beijing.myqcloud.com/blog/img/1596691704617.png" alt="" loading="lazy"><br>
+我们再输入pl指令，会看到有你的插件。<br>
+如果你的插件没有识别可能是你的插件在导入依赖没有搞好，再就是你的代码也有问题，或者plugin.yml文件没有构建。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本博客]]></title>
+        <id>https://srlove-git.github.io/about/</id>
+        <link href="https://srlove-git.github.io/about/">
+        </link>
+        <updated>2020-07-12T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<p>本站相关信息：<br>
+名称：拾染博客<br>
+地址：https://blog.srlove.top/<br>
+Logo: https://blog-1301576994.cos.ap-beijing.myqcloud.comimg/blog/20210424184016.jpg<br>
+简介：拾染博客，日常摸鱼，技术宅</p>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>可能每个人都有那么几个发泄点，可能我的发泄点就是我的博客。<br>
+我是一个渴望自己的想法被认可的性格，因为现实中害怕表达自己的不同观点，而且我也患有阳光抑郁症，所以我的性格可能古怪。 —— 这可能也是我建立独立博客的原因之一。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>SRlove（拾染爱恋）</p>
+<h2 id="博主介绍">博主介绍</h2>
+<p>我是一个内向的男孩子，可能我在生活中有时显得很外向，活泼，但我的内心确是非常的自闭，有时可能我的待人处事不是那么的好，而且我不擅长与别人交流，可能和别人独处时，会出现尴尬，回不上话之类的，请谅解。<br>
+为了更深刻了解自己，我也对自己性格做了分析：<br>
+离群，内省，喜欢独处而不喜欢接触人，与人保持一定距离，悲观，孤独，抑郁<br>
+我并没有因为我是阳光抑郁症患者而感到自卑，但我的性格就是这样，这可能永远也改变不了。</p>
+<h2 id="关于梦想">关于梦想</h2>
+<p>可能我的梦想听起来可笑，但我会用行动去证明。<br>
+我的梦想是成为一名软件工程师，并组建自己团队，以至于后来建立起自己的公司。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>Java,Minecraft,一部分的安卓程序制作，易程序，PHP</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>QQ：639388807</p>
+<h2 id="️重要问题">❗❗️重要问题</h2>
+<p>本网站使用Github+Gridea所写，肯定会卡顿(挂梯子会快一点)，所以请不要担心。<br>
+请您耐心等待即可。<br>
+网站制作不易，还请dalao支持</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天气发布网站]]></title>
+        <id>https://srlove-git.github.io/earth/</id>
+        <link href="https://srlove-git.github.io/earth/">
+        </link>
+        <updated>2020-07-06T02:17:40.000Z</updated>
+        <content type="html"><![CDATA[<p>此网站模拟earth网站，如有侵权请联系作者。</p>
+<iframe src="https://earth.nullschool.net" width=100% height=1080> </iframe>]]></content>
+    </entry>
+</feed>
